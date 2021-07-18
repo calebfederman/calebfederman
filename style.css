@@ -58,7 +58,7 @@ nav{
 .greet{
  width: 100%;
  min-height: 92vh;
- background-color: #111111;
+ background-image: linear-gradient(#111, #333);
 }
 
 .text-box{
