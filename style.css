@@ -131,6 +131,7 @@ nav{
 
 .contact-btns{
  transform: translate(0%,50%);
+ display: inline-flex;
 }
 
 .about button{
