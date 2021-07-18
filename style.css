@@ -101,7 +101,7 @@ nav{
  background-color: #ffffef;
  display: inline-flex;
  align-items: center;
- padding: 10px;
+ padding-bottom: 10px;
 }
 
 .about img{
