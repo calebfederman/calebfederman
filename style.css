@@ -6,7 +6,7 @@
 }
 
 .header{
- min-height: 100vh;
+ min-height: 100%;
  width: 100%;
  background-color: #111111;
  position: relative;
