@@ -90,8 +90,14 @@ nav{
  color: #ffdd84;
 }
 
+.proj{
+ width: 100%;
+ min-height: 20vh;
+ background-image: linear-gradient(#333,#ffffef);
+}
+
 .about{
- min-height: 50vh;
+ min-height: 90vh;
  width: 100%;
  background-color: #ffffef;
  display: inline-flex;
@@ -123,3 +129,41 @@ nav{
  font-size: 18px;
 }
 
+.contact-btns{
+ transform: translate(0%,50%);
+}
+
+.about button{
+ position: relative;
+ width: 90px;
+ height: 30px;
+ outline: none;
+ border-radius: 2px;
+ margin: 0px 5px;
+ font-family: 'Open Sans', sans-serif;
+ font-weight: bolder;
+}
+
+.about button:active{
+ transform: scale(1.1);
+}
+
+#linkedin{
+ border: 2px solid #111;
+ background-color: #fffffe;
+}
+
+#github{
+ border: 2px solid #111;
+ color: #fff9ea;
+ background-color: #111;
+}
+
+.footer{
+ position: relative;
+ width: 100%;
+ min-height: 6vh;
+ left: 0;
+ bottom: 0;
+ background-color: #111;
+}
