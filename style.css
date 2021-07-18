@@ -168,3 +168,22 @@ nav{
  bottom: 0;
  background-color: #111;
 }
+
+.footer a{
+ position: relative;
+ color: #ffdd84;
+ left: 48%;
+ font-family: 'Open Sans', sans-serif;
+ font-weight: bold;
+ transition: 0.25s;
+ text-decoration: none;
+}
+
+.footer a:hover{
+ position: relative;
+ color: #fff4e1;
+ left: 48%;
+ font-family: 'Open Sans', sans-serif;
+ font-weight: bold;
+ text-decoration: underline;
+}
